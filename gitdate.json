@@ -16,6 +16,11 @@
             "name": "Gitdate Profile",
             "description": "My Gitdate Profile",
             "url": "gitdatetest"
+        },
+        {
+            "name": "React",
+            "description": "A fork of React!"
+            "url": "react"
         }
     ]
 }
