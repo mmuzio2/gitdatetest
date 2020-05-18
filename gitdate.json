@@ -17,9 +17,9 @@
             "url": "gitdatetest"
         },
         {
-            "name": "Gitdate",
-            "description": "Gitdate Source Code", 
-            "url": "gitdate"},
+            "name": "Gitdate Frontend",
+            "description": "GitDate frontend built with Angular and Material Design", 
+            "url": "gitdate-template"},
         {
             "name": "Projectio",
             "description": "SPMR has 3 primary functionalities: Create projects, Join projects, and Message teammates",
