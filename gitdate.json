@@ -1,13 +1,14 @@
 {
-    "name": "Java Wizard",
+    "name": "Angular Magician",
     "languages": [
         "Java",
-        "Javascript",
+        "Typescript",
         "SQL"
     ],
     "technologies": [
-        "Spring",
+        "Spring Boot",
         "Angular",
+        "React",
         "Postgres"
     ],
     "repos": [
@@ -15,20 +16,6 @@
             "name": "Gitdate Profile",
             "description": "My Gitdate Profile",
             "url": "gitdatetest"
-        },
-        {
-            "name": "Gitdate Frontend",
-            "description": "GitDate frontend built with Angular and Material Design", 
-            "url": "gitdate-template"},
-        {
-            "name": "Projectio",
-            "description": "SPMR has 3 primary functionalities: Create projects, Join projects, and Message teammates",
-            "url": "SPMR"
-        },
-        {
-            "name": "TRMS",
-            "description": "Tuition Reimbursement Management System",
-            "url": "TRMS"
         }
     ]
 }
